@@ -5,6 +5,7 @@ In many cases, the develop branch may have the latest code with improvements for
 
 ## Build
 
+Clone this repo into a new empty directory, then:
 ```
 docker build --progress=plain -f Dockerfile.distroless  -t packetcrypt:develop .
 ```
