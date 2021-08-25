@@ -1,9 +1,0 @@
-testing secrets
-
-secret=asdjasd
-password=123123
-
-
-pat=ed84lasr5vrzmm4tifm6p6guavg6bps77lrjcv7iia6ndqaxtr3b
-
-pat=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
